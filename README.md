@@ -1,3 +1,3 @@
 # OpenMeetingNotes-serverless
 
-An endpoint and website that takes MP3 files of spoken conversations and returns a text summary of the conversation.
+A serverless API that accepts MP3 files of spoken conversations and returns a text summary of the conversation.
